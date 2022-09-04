@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Sorting/cyclicsort",
+        "Sorting/SelectionSort",
+        "Sorting/Insertion",
+        "Sorting/BubbleSort",
+        "Searching/Linear Search",
+        "Searching/Binary Search",
+        "code"
+    ]
+}
